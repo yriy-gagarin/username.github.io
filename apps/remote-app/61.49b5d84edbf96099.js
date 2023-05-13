@@ -1,0 +1,1 @@
+(self.webpackChunkremote_app=self.webpackChunkremote_app||[]).push([[61],{61:(e,r,t)=>{t.r(r);var o=t(619),a=t(29),p=t(504),s=t(322);a.s(document.getElementById("root")).render((0,s.jsx)(o.StrictMode,{children:(0,s.jsx)(p.Z,{})}))},29:(e,r,t)=>{var o=t(135);r.s=o.createRoot,o.hydrateRoot}}]);
